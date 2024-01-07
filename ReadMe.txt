@@ -9,7 +9,7 @@ Morpheus883's Site: http://morpheus883.altervista.org/
 GitHub Repository: https://github.com/morpheus883/
 and available on the main Sat Sites
 
-Amiko A5/A6 Settings 31st December 2023, © by Morpheus883
+Amiko A5/A6 Settings 7th January 2024, © by Morpheus883
 
 Settings for Images based on Android FW's:
 
@@ -17,7 +17,7 @@ Statistics:
 # Clarke Belt covered: 47.5°W - 76.5°E
 # Satellites: 90 (Ku Band TP)
 # Ordered Provider Lists: 54
-# Services: 16.534
+# Services: 16.499
 
 [30.0 W]   Meo
 [30.0 W]   Nos
@@ -71,7 +71,7 @@ Statistics:
 [DTT]   Terrestrial - Lombardy LCN
 
 === Compiled with Morpheus883's scripts ===
- ======== © by Morpheus883, 2023 ========
+ ======== © by Morpheus883, 2024 ========
  
 
 You can find everything and much more on:
