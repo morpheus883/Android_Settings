@@ -9,7 +9,7 @@ Morpheus883's Site: http://morpheus883.altervista.org/
 GitHub Repository: https://github.com/morpheus883/
 and available on the main Sat Sites
 
-Amiko A5/A6 Settings 15th May 2024, © by Morpheus883
+Amiko A5/A6 Settings 22nd May 2024, © by Morpheus883
 
 Settings for Images based on Android FW's:
 
