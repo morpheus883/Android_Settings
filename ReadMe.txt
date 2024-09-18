@@ -9,7 +9,7 @@ Morpheus883's Site: http://morpheus883.altervista.org/
 GitHub Repository: https://github.com/morpheus883/
 and available on the main Sat Sites
 
-Amiko A5/A6 Settings 12th September 2024, © by Morpheus883
+Amiko A5/A6 Settings 18th September 2024, © by Morpheus883
 
 Settings for Images based on Android FW's:
 
@@ -17,7 +17,7 @@ Statistics:
 # Clarke Belt covered: 47.5°W - 76.5°E
 # Satellites: 88 (Ku Band TP)
 # Ordered Provider Lists: 55
-# Services: 16.677
+# Services: 16.666
 
 [30.0 W]   Meo
 [30.0 W]   Nos
