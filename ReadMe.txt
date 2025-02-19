@@ -9,7 +9,7 @@ Morpheus883's Site: https://morpheus883.altervista.org/
 GitHub Repository: https://github.com/morpheus883/
 and available on the main Sat Sites
 
-Amiko A5/A6 Settings 13th February 2025, © by Morpheus883
+Amiko A5/A6 Settings 19th February 2025, © by Morpheus883
 
 Settings for Images based on Android FW's:
 
@@ -17,12 +17,11 @@ Statistics:
 # Clarke Belt covered: 47.5°W - 76.5°E
 # Satellites: 88 (Ku Band TP)
 # Ordered Provider Lists: 55
-# Services: 16.155
+# Services: 16.170
 
 [30.0 W]   Meo
 [30.0 W]   Nos
  [5.0 W]   Bis / Orange / Fransat
- [4.0 W]   Magio TV
  [0.8 W]   Canal Digital Nordic
  [0.8 W]   Focus Sat
  [0.8 W]   RCS DigiTV
