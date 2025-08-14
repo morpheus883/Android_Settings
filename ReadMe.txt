@@ -9,7 +9,7 @@ Morpheus883's Site: https://morpheus883.altervista.org/
 GitHub Repository: https://github.com/morpheus883/
 and available on the main Sat Sites
 
-Amiko A5/A6 Settings 29th July 2025, © by Morpheus883
+Amiko A5/A6 Settings 14th August 2025, © by Morpheus883
 
 Settings for Images based on Android FW's:
 
@@ -17,7 +17,7 @@ Statistics:
 # Clarke Belt covered: 47.5°W - 76.5°E
 # Satellites: 88 (Ku Band TP)
 # Ordered Provider Lists: 55
-# Services: 16.029
+# Services: 16.019
 
 [30.0 W]   Meo
 [30.0 W]   Nos
@@ -30,11 +30,11 @@ Statistics:
  [1.9 E]   Polaris Media
  [4.8 E]   Viasat
  [4.8 E]   VisionTV
- [7.0 E]   Digitürk
  [9.0 E]   Kabelkiosk
  [9.0 E]   OTE
 [13.0 E]   BIS/Orange FR
 [13.0 E]   Cyfrowy Polsat
+[13.0 E]   Kabelio
 [13.0 E]   NC+/Orange PL
 [13.0 E]   Nova
 [13.0 E]   RAI/Mediaset/TivùSat
@@ -67,7 +67,6 @@ Statistics:
 [42.0 E]   Filbox
 [42.0 E]   Tivibu (East Beam)
 [42.0 E]   Türksat
-[45.0 E]   Vivacom/NURTS
 [DTT]   Terrestrial - Lombardy LCN
 
 === Compiled with Morpheus883's scripts ===
